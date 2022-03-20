@@ -1,0 +1,126 @@
+/*navigation*/
+.navigation{
+	display: inline-block;
+}
+.navli{
+	color: #5B5F63;
+	display: inline-block;
+	vertical-align: middle;
+	font-family: 'Comfortaa';
+	text-transform: uppercase;
+	font-weight: 900;
+	margin-right: 27px;
+}
+.active{
+	color: #000000;
+}
+.link{
+	color: #000000;
+}
+.pic{
+	vertical-align: middle;
+}
+.nav-block{
+	margin: 18px 0px 43px 20px;
+}
+.logo{
+	font-family: 'Comfortaa';
+	margin-right: 110px;
+	color: #FA6980;
+	text-transform: uppercase;
+	font-weight: 900;
+}
+.body{
+	background-color: #F6F8F9;
+}
+/*top section info style*/
+.top-block{
+	width: 1164px;
+	margin: 0 auto;
+}
+.topinfo-block{
+	width: 360px;
+	display: inline-block;
+	background-color: #ffffff;
+}
+.style{
+	margin: 0px 40px;
+}
+.top-block-img{
+	position: relative;
+}
+.top-img-title{
+	position: absolute;
+	color: #FFFFFF;
+	top: 28px;
+	left: 40px;
+	font-family: 'Comfortaa';
+	font-weight: 700;
+	font-size: 16px;
+}
+.top-block-title{
+	font-family: 'Comfortaa';
+	font-size: 24px;
+	margin-bottom: 40px;
+	text-transform: uppercase;
+	font-weight: 900;
+}
+.top-block-text{
+	font-family: 'Comfortaa';
+	width: 280px;
+	margin: 66px auto;
+	line-height: 20px;
+	color: #A6ADB4;
+	font-weight: 600;
+}
+/*bottom section information */
+.bottom-block{
+	width: 1164px;
+	margin: 0 auto;
+}
+.left-block{
+	width: 760px;
+	display: inline-block;
+	vertical-align: top;
+}
+.bottom-block-title{
+	font-family: 'Comfortaa';
+	font-size: 24px;
+	margin:58px 0px 40px 0px;
+	text-transform: uppercase;
+	font-weight: 900;
+}
+.left-block-img{
+	position: relative;
+	margin-bottom: 40px;
+}
+.left-block-title{
+	font-family: 'Comfortaa';
+	font-weight: 700;
+	font-size: 16px;
+	position: absolute;
+	color: #ffffff;
+	right: 15px;
+	bottom: 20px;
+}
+.right-block{
+	width: 360px;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 40px;
+}
+.right-block-img{
+	position: relative;
+}
+.right-block-title{
+	font-family: 'Comfortaa';
+	font-weight: 700;
+	font-size: 16px;
+	position: absolute;
+	color: #ffffff;
+	left: 40px;
+	top: 18px;
+}
+.middle-img{
+	margin: 100px 0px;
+}
