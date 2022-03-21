@@ -20,12 +20,20 @@
 .pic{
 	vertical-align: middle;
 }
+.header{
+	position: fixed;
+	background-color: #F6F8F9;;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: 1;
+}
 .nav-block{
-	margin: 18px 0px 43px 20px;
+	margin: 10px 0px 20px 20px;
 }
 .logo{
 	font-family: 'Comfortaa';
-	margin-right: 110px;
+	margin-right: 190px;
 	color: #FA6980;
 	text-transform: uppercase;
 	font-weight: 900;
@@ -36,7 +44,7 @@
 /*top section info style*/
 .top-block{
 	width: 1164px;
-	margin: 0 auto;
+	margin: 100px auto 0px auto
 }
 .topinfo-block{
 	width: 360px;
